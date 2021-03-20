@@ -51,3 +51,17 @@ VBoxManage controlvm:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.1/screenshots%20task2/image_2021-03-20_18-24-23.png?raw=true)
 
 # Part 3 (Work with Vagrant)
+A virtual machine was created using vagrant, Putty is connected to it, and with the help of it the current date and time are displayed:
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.1/screenshots%20task2/image_2021-03-20_16-44-36.png?raw=true)
+
+# Create my own box: 
+Step one:
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.1/screenshots%20task2/image_2021-03-20_17-02-24.png?raw=true)
+
+Step two:
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.1/screenshots%20task2/image_2021-03-20_17-04-36.png?raw=true)
+
+Step three:
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.1/screenshots%20task2/image_2021-03-20_17-19-23.png?raw=true)
+
+As a result, we created our box and launched it using vagrant.
