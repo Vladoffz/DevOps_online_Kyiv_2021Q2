@@ -1,4 +1,4 @@
-# PART 1(Hypervisors)
+# Part 1(Hypervisors)
 - The most popular hypervisors on the market are VMware vSphere, Microsoft Hyper-V Server, Citrix Hypervisor.
 - 1) VMware is the most expensive solution, Hyper-V is cheaper. 
   2) VMware has better VDI, but Microsoft will have a cheaper VDI organization.
