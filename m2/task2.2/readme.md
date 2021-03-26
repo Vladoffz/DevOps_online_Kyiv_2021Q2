@@ -9,7 +9,7 @@ VM terminal:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.2/screenshots%20task2.2/image_2021-03-24_15-42-25.png?raw=true)
 
 Created snapshot:
-![]{https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.2/screenshots%20task2.2/image_2021-03-24_15-48-02.png?raw=true)
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.2/screenshots%20task2.2/image_2021-03-24_15-48-02.png?raw=true)
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.2/screenshots%20task2.2/image_2021-03-24_16-38-59.png?raw=true)
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m2/task2.2/screenshots%20task2.2/image_2021-03-24_16-42-25.png?raw=true)
 
