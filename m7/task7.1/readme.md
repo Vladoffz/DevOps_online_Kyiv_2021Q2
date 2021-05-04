@@ -24,6 +24,7 @@ Check script:
 
 Creating a script:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m7/task7.1/task7.1%20screenshots/image_2021-05-04_22-20-38.png?raw=true)
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m7/task7.1/task7.1%20screenshots/image_2021-05-04_22-55-00.png?raw=true)
 
 More requests from ip:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m7/task7.1/task7.1%20screenshots/image_2021-05-04_22-20-08.png?raw=true)
