@@ -22,7 +22,7 @@ Playbook three:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m10/task10.1/task10.1%20screenshots/image_2021-05-19_11-41-44.png?raw=true)
 
 Result:
-![]https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m10/task10.1/task10.1%20screenshots/image_2021-05-19_11-41-57.png(?raw=true)
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m10/task10.1/task10.1%20screenshots/image_2021-05-19_11-41-57.png?raw=true)
 
 Get ansible_os_family parameter:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m10/task10.1/task10.1%20screenshots/image_2021-05-19_11-34-18.png?raw=true)
