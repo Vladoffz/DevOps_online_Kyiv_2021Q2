@@ -9,7 +9,7 @@ Requirements for flask app:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m11/task11.1/task11.1%20sceenshots/image_2021-05-28_19-32-44.png?raw=true)
 
 Flask app:
-![]https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m11/task11.1/task11.1%20sceenshots/image_2021-05-28_19-33-02.png?raw=true)
+![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m11/task11.1/task11.1%20sceenshots/image_2021-05-28_19-33-02.png?raw=true)
 
 Index.html for flask app:
 ![](https://github.com/Vladoffz/DevOps_online_Kyiv_2021Q2/blob/master/m11/task11.1/task11.1%20sceenshots/image_2021-05-28_19-33-17.png?raw=true)
